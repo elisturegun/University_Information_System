@@ -1,2 +1,2 @@
 # University_Information_System
-University Information System Database - SQL
+University Information System Database for TURKEY - SQL
